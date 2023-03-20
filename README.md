@@ -180,3 +180,8 @@ while True:
     sleep(1)
 ```
 
+
+https://wokwi.com/projects/359744273111140353
+
+
+![Image alt text](sis2.png?raw=true)
