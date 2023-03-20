@@ -146,3 +146,4 @@ class Matrix8x8:
                 self.spi.write(bytearray([_DIGIT0 + y, self.buffer[(y * self.num) + m]]))
             self.cs(1)
 ```
+
