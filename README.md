@@ -189,7 +189,4 @@ https://wokwi.com/projects/359744273111140353
 https://microcontrollerslab.com/max7219-led-dot-matrix-display-raspberry-pi-pico/
 
 # Video
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
