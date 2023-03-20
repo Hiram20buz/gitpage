@@ -185,3 +185,10 @@ https://wokwi.com/projects/359744273111140353
 
 
 ![Image alt text](sis2.png?raw=true)
+
+https://microcontrollerslab.com/max7219-led-dot-matrix-display-raspberry-pi-pico/
+
+# Video
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
